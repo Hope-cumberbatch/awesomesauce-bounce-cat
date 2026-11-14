@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cxfwyq7u7s3ud"
+path="res://.godot/imported/Moog City.mp3-9180bf20602da9bafdcbe0b3c1973e3b.mp3str"
+
+[deps]
+
+source_file="res://assets/brackeys_platformer_assets/music/Moog City.mp3"
+dest_files=["res://.godot/imported/Moog City.mp3-9180bf20602da9bafdcbe0b3c1973e3b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4

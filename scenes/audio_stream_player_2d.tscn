@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://bakhjubwyg27i"]
+
+[ext_resource type="AudioStream" uid="uid://cxfwyq7u7s3ud" path="res://assets/brackeys_platformer_assets/music/Moog City.mp3" id="1_1udxr"]
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" unique_id=1734486353]
+stream = ExtResource("1_1udxr")
+volume_db = 24.0
+autoplay = true
